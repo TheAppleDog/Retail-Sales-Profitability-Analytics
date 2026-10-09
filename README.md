@@ -66,10 +66,10 @@ The dashboards help users investigate where revenue is generated, where profit i
 
 ## 📷 Dashboard Screenshots
 Add screenshots of both completed dashboards here.
+<img width="1920" height="1080" alt="executive-overview" src="https://github.com/user-attachments/assets/041eaef7-c82a-4cfb-8280-e3a78593bc14" /><br>
 
-Suggested filenames:
-- `executive-overview.png`
-- `profitability-deep-dive.png`
+<img width="1920" height="1080" alt="profitability-deep-dive" src="https://github.com/user-attachments/assets/ade98977-51c0-48bf-8def-8a609c3dc76c" />
+
 
 ## 📁 Dataset
 Tableau Sample Superstore sample dataset. Include the specific source or download link you used if available.
